@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tusharkulkarni008
-- 👀 I’m interested in Data Science and AI
+- 👀 I’m interested in Data Science and AI and Devops 
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on small projects
 - 📫 How to reach me tusharkulkarni95@gmail.com
